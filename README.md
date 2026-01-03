@@ -1,5 +1,4 @@
 ﻿# Manufacturing Quality Prediction
- # Manufacturing Quality Prediction
 
 ## Problem
 Predict product quality (PASS / FAIL) using manufacturing process parameters.
@@ -32,5 +31,6 @@ are key factors affecting quality.
 
 ## Tools
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
 
 
